@@ -1,7 +1,7 @@
-# This NEW Is a Header
+# This Is a NEW Header
 It is very nice
 
-## This NEW Is Also a Header
+## This Is Also a NEW Header
 It is just smaller
 
 You can make the conda environment and download the packages all with this one command:  
